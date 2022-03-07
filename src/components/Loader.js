@@ -7,7 +7,7 @@ const defaultLoaderStyle = {
   left: 0,
   right: 0,
   bottom: 0,
-  zIndex: 10,
+  zIndex: 9999,
   background: 'rgba(255,255,255,.5)',
   backfaceVisibility: 'hidden',
 };
